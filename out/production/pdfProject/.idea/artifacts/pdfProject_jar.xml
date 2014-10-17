@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pdfProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pdfProject_jar</output-path>
+    <root id="archive" name="pdfProject.jar">
+      <element id="module-output" name="pdfProject" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/PDF/pdfbox-app-1.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
